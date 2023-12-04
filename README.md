@@ -11,7 +11,7 @@ This project delves into the analysis of ads performance on TikTok in the Europe
 As TikTok lacks an open API, data retrieval involved submitting an application for API access, generating access tokens, and making multiple API calls to overcome request limitations. The data preparation phase included fetching ad information, storing it as CSV files, and cleaning the data for both machine learning and visualization purposes.
 
 ### Data Visualization
-Nine charts were created using Tableau to visualize ad performance. The charts cover various aspects, providing a comprehensive view of the data and facilitating insights into trends and patterns.
+Nine charts were created using Tableau to visualize ad performance. The charts cover various aspects, providing a comprehensive view of the data and facilitating insights into trends and patterns. Dashboard and stories available with the Dashboard tab.
 ### Tableau Link: https://public.tableau.com/app/profile/jordan.kane/viz/TikTokAdTargetingAnalysis_17016755728710/CategoryPerformance?publish=yes
 
 ### Machine Learning Models
