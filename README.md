@@ -28,6 +28,8 @@ Code for converting JSON files into CSV files and merging CSV files.
 Presentation PowerPoint file.
 ### ads_id_ads_videos.ipynb:
 Data cleaning code for preparing data for further data visualization in Tableau.
+### ads-link-clean.ipynb
+Data cleaning code for ads video links for data visualization.
 ### ads_machine_learning.ipynb:
 Code for data preparation for machine learning.
 Code for all machine learning models.
