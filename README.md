@@ -21,12 +21,12 @@ Four machine learning models were designed to predict whether ads would meet bus
 
 ### Resources:
 Contains all CSV and JSON files used in the project.
-###Fetch_Data.ipynb:
+### Fetch_Data.ipynb:
 Code for making API calls to fetch and store data.
 Code for converting JSON files into CSV files and merging CSV files.
 ### TikTok Data Analysis Presentation PDF.pdf:
 Presentation PowerPoint file.
-###ads_id_ads_videos.ipynb:
+### ads_id_ads_videos.ipynb:
 Data cleaning code for preparing data for further data visualization in Tableau.
 ### ads_machine_learning.ipynb:
 Code for data preparation for machine learning.
