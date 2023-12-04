@@ -12,7 +12,7 @@ As TikTok lacks an open API, data retrieval involved submitting an application f
 
 ### Data Visualization
 Nine charts were created using Tableau to visualize ad performance. The charts cover various aspects, providing a comprehensive view of the data and facilitating insights into trends and patterns.
-### Tableau Link: https://public.tableau.com/app/profile/jordan.kane/viz/TikTokAdTargetingAnalysis/Dashboard?publish=yes
+### Tableau Link: https://public.tableau.com/app/profile/jordan.kane/viz/TikTokAdTargetingAnalysis_17016755728710/CategoryPerformance?publish=yes
 
 ### Machine Learning Models
 Four machine learning models were designed to predict whether ads would meet business expectations. Cluster, Logistic Regression, Decision Tree, and TensorFlow models were employed, with Decision Tree yielding particularly promising results.
